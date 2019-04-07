@@ -1,5 +1,5 @@
 # Technical-Documents-Showcase
-Technical documents I have worked on over the course of my University degree. 
+Some of the technical documents I have worked on over the course of my University degree. 
 
 COSC 304 - Databases 
 COSC 320 - Algorithm Analysis 
